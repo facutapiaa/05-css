@@ -1,0 +1,28 @@
+#colorfondo{
+    background-color: grey;
+}
+#imagen{
+    background-image: url(/assets/imagenes/banana2.jpeg);
+}
+#color{
+    color: peru;
+}
+#texto{
+    text-align:center;
+}
+#width{
+    width: max-content;
+}
+#borde,tr, td{
+    border: 2px solid black;
+}
+table{
+    border-collapse: collapse;
+}
+#display{
+display: flow;
+}
+#justin_biber{
+    display: flex;
+    justify-content: center;
+}
